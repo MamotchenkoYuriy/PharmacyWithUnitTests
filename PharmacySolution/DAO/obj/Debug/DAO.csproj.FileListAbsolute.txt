@@ -1,0 +1,15 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\DAO.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\DAO.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\BusinessLogic.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\Contracts.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\Core.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\Data.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\EntityFramework.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\BusinessLogic.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\Contracts.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\Core.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\Data.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\bin\Debug\EntityFramework.xml
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\obj\Debug\DAO.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\DAO\obj\Debug\DAO.pdb

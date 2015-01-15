@@ -1,0 +1,13 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\Contracts.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\Core.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\Data.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\Contracts.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\Core.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\Data.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\PharmacySolution\App\BusinessLogic\obj\Debug\BusinessLogic.pdb
